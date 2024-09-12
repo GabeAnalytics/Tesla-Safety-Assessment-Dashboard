@@ -2,6 +2,11 @@
 
 ## Tesla Accidents Impact from April 2013 to January 2024
 
+![CLICK HERE for Interactive Dashboard](https://app.powerbi.com/links/Wtl02bBsqK?ctid=e4dc6d37-7d1a-46b9-93b2-af0d96d4712e&pbi_source=linkShare)
+
+### PowerBI Dashboard
+![](DASHBOARD.png)
+
 ### Executive Summary
 
 ![](Executive_Summary.png)
@@ -36,6 +41,23 @@ The dataset for this project was sourced from TeslaAccidents.com, which meticulo
 In this project, advanced data analytics techniques were utilized to construct a sophisticated predictive framework using a combination of tools. Excel was employed for data organization, Python for data analysis and modeling, and Microsoft Power BI for data visualization, all integrated through Microsoft Fabric to enhance user interaction and interface design.
 
 ![](Predictive_Analytics_Framework.png)
+
+- **Data Modeling**
+
+**This project's data model consists of five tables:**
+
+1. **Waterfall Table**: This table supports the waterfall chart visualization, providing the necessary data points to display increases and decreases across various metrics.
+2. **Data Refresh Table**: This table tracks all updates and refreshes that occur within the dataset, allowing for monitoring and auditing of data changes over time.
+3. **Measures Table**: This table consolidates all the calculated measures and metrics used throughout the project, serving as a centralized repository for reusable calculations.
+4. **Tesla Accident Table**: This is the main dataset, containing detailed information about Tesla-related accidents, which forms the core of the analysis.
+5. **Calendar Table**: The calendar table is linked to the Tesla Accident table to synchronize date-related data, enabling time-based analysis and ensuring accurate filtering and grouping of events by time.
+
+The relationships between these tables ensure efficient data processing and enable the seamless creation of visualizations and insights across various dimensions, such as time, metrics, and incident details.
+
+
+  
+![](Data_Modeling.png)
+
 
 - **Data Features**
 
@@ -211,6 +233,7 @@ Future capabilities aims at enhancing Tesla's safety ecosystem, featuring early 
 
 
 ![](Future_Capabilities.png)
+
 
 
 
