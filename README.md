@@ -2,7 +2,8 @@
 
 ## Tesla Accidents Impact from April 2013 to January 2024
 
-[![CLICK HERE for Interactive Dashboard](https://img.icons8.com/material-outlined/24/000000/power-bi.png)](https://app.powerbi.com/reportEmbed?reportId=11d3365f-6cae-4f74-804f-eeac4bed5bc8&autoAuth=true&ctid=e4dc6d37-7d1a-46b9-93b2-af0d96d4712e)
+[![CLICK HERE for Interactive Dashboard](https://img.icons8.com/material-outlined/24/000000/power-bi.png)](https://app.powerbi.com/links/Wtl02bBsqK?ctid=e4dc6d37-7d1a-46b9-93b2-af0d96d4712e&pbi_source=linkShare&bookmarkGuid=b4dd4785-2d3b-4e79-82b4-3842e99e394e)
+
 
 
 ### PowerBI Dashboard
